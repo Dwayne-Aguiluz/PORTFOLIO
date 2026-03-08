@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head><Title> 3rd and 4th Quarter Events </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body style="color:#E9B48A;background-color:#2A1713;">
+
+<nav class="navigation">
+<ul>
+ <li><a href="Events3.html"> Math Month </a></li>
+ <li><a href="ESP.html"> ESP Month </a></li>
+ <li><a href="English.html"> English Month </a></li>
+ <li><a href="Meeting.html"> Miting De Avance </a></li>
+ <li><a href="MAPEH.html"> MAPEH Month </a></li>
+ <li><a href="index.html"> Home </a></li>
+</ul>
+</nav>
+ 
+<h1> Miting De Avance </h1>
+
+<p> The most important thing I learned from this event is even if we are still students, we have to be responsible on who we vote to manage our school and become a role model to others, this teaches us to know more about the candidates of being our leader when we students get the chance to vote. I did not participate in this event however i can teach this to someone by comparing it to our presidential elections and how they are similar to eachother. This event does not have an academic subject involved but if I were to guess the subject I would guess economics, it is important to have this event because is teaches us to vote properly, that we should not have bias in who we vote for in order to make the community a better place. 
+</p> 
+
+<hr color="#956959" style="height:25px;border:8px Groove #5C352C;Margin:5px;">
+<h1> Videos And Photos </h1>
+
+<img src="Meeting.jfif" alt="LevelRep" width="600px" height="400px"><img src="Meeting2.jfif" alt="LevelRep" width="600px" height="400px">
+</body>
+</html>

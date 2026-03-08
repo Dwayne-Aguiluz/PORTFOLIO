@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head><Title> 3rd and 4th Quarter Events </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body style="color:#E9B48A;background-color:#2A1713;">
+
+<nav class="navigation">
+<ul>
+ <li><a href="Events3.html"> Math Month </a></li>
+ <li><a href="ESP.html"> ESP Month </a></li>
+ <li><a href="English.html"> English Month </a></li>
+ <li><a href="Meeting.html"> Miting De Avance </a></li>
+ <li><a href="MAPEH.html"> MAPEH Month </a></li>
+ <li><a href="index.html"> Home </a></li>
+</ul>
+</nav>
+ 
+<h1> MAPEH Month </h1>
+
+<p> The most important thing I learned from this month is time-management, because despite all the school works and quizzes, the people that participated in this month still practiced for their performance and gave it their best to complete their missing tasks, I could apply this to many things in my life because sometimes I think I can not finish a task because I dont have time to complete it. I did not participate in this event, however i cheered for my classmates in their street dance and watched in the Battle Of the Bands, If i were to teach this to someone I would say that this is an event to showcase our talent in many different things like dancing and singing. It is important to have an event in MAPEH because it lets us discover that we can actually do something, that it is a chance for us to show our hardwork and talent. 
+</p> 
+
+<hr color="#956959" style="height:25px;border:8px Groove #5C352C;Margin:5px;">
+<h1> Videos And Photos </h1>
+
+<img src="MAPEH.jfif" alt="Street Dance" width="600px" height="400px"><img src="MAPEH2.jfif" alt="Folk Dance" width="600px" height="400px">
+</body>
+</html>
