@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head><Title> 3rd and 4th Quarter Events </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body style="color:#E9B48A;background-color:#2A1713;">
+
+<nav class="navigation">
+<ul>
+ <li><a href="Events3.html"> Math Month </a></li>
+ <li><a href="ESP.html"> ESP Month </a></li>
+ <li><a href="English.html"> English Month </a></li>
+ <li><a href="Meeting.html"> Miting De Avance </a></li>
+ <li><a href="MAPEH.html"> MAPEH Month </a></li>
+ <li><a href="index.html"> Home </a></li>
+</ul>
+</nav>
+ 
+<h1> English Month </h1>
+
+<p> The most important thing I learned in this event is that I still have to improve many things in English especially my reading ability to comprehend materials, I can apply this by reading more books and understanding them fully. I participated in the event by having a costume and cosplaying as harry potter. I would explain this event to someone and say that this event is a test of our reading proficiency and creative thinking for posters and slogans. It is important for the subject of English to have an event like this because it encourages students to read more, improving their literacy and vocabulary.
+</p> 
+
+<hr color="#956959" style="height:25px;border:8px Groove #5C352C;Margin:5px;">
+<h1> Videos And Photos </h1>
+
+<img src="ENGLISH1.jfif" alt="Mark Pogi" width="600px" height="400px"><img src="ENGLISH2.jfif" alt="BOOKLANDIA" width="600px" height="400px">
+</body>
+</html>

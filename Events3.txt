@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head><Title> 3rd and 4th Quarter Events </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body style="color:#E9B48A;background-color:#2A1713;">
+
+<nav class="navigation">
+<ul>
+ <li><a href="Events3.html"> Math Month </a></li>
+ <li><a href="ESP.html"> ESP Month </a></li>
+ <li><a href="English.html"> English Month </a></li>
+ <li><a href="Meeting.html"> Miting De Avance </a></li>
+ <li><a href="MAPEH.html"> MAPEH Month </a></li>
+ <li><a href="index.html"> Home </a></li>
+</ul>
+</nav>
+ 
+<h1> Math Month </h1>
+
+<p> The most important thing I learned in this month is to always have a complete answer, otherwise it will be marked wrong, I can apply this in every conversation I have, that I always need to fully explain what I say for them to understand me clearly. I participated in this event, I joined the Damath competition and the Quiz Bee. If i were wato explain this to someone I would say that this is a month where we improve our critical thinking skills aswell as our problem solving skills to help us in many problems and not only in mathematics. 
+</p> 
+
+<hr color="#956959" style="height:25px;border:8px Groove #5C352C;Margin:5px;">
+<h1> Videos And Photos </h1>
+
+<img src="Math1.jfif" alt="BATINN" width="600px" height="400px"><img src="Math2.jfif" alt="Math Idol" width="600px" height="400px">
+</body>
+</html>

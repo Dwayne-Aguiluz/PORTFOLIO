@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head><Title> Lesson 1 AP </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body style="background-color:Lavender;color:Teal;">
+
+
+<nav class="navigation">
+<ul>
+ <li><a href="Kaunlaran.html"> Lesson 1 </a></li>
+ <li><a href="Kaunlaran2.html"> Lesson 2 </a></li>
+ <li><a href="Kaunlaran3.html"> Lesson 3 </a></li>
+ <li><a href="Kaunlaran4.html"> Lesson 4 </a></li>
+ <li><a href="Kaunlaran5.html"> Lesson 5 </a></li>
+ <li><a href="Kaunlaran6.html"> Lesson 6 </a></li>
+ <li><a href="index.html"> Home </a></li>
+</ul>
+</nav>
+
+<h1 class="Kaunlaran"> PAMBANSANG KAUNLARAN </h1>
+<p> Isang estado ng bansa kung saan tinatamasa ng mga tao mula sa pinakamababang uri ng mamamayan ang nakakamanghang pagbabago sa ekonomiya at pamumuhay </p>
+
+<h3 class="Kaunlaran"> <h3 class="Kaunlaran"> MGA KONSEPTO NG PAMBANSANG KAUNLARAN </h3>
+<ol class="Kaunlaran">
+
+<li> Pagbabago </li>
+<p> Paraan upang maging iba o naiiba
+</p>
+<p> Proseso ng pag-iiba o pagkakaroon ng kaibahan sa lipunan at ekonomiya
+</p>
+
+<li> Pag-unlad </li>
+<p> Pagbabago mula sa mababa tungo sa mataas na antas ng pamumuhay
+</p>
+<p> Isang progresibo at aktibong proseso at ang pagsulong ay produkto nito (FAJARDO)
+</p>
+<p> Ang kaunlaran ay matatamo lamang kung mapauunlad ang yaman ng buhay ng mga tao kaysa sa yaman ng ekonomiya nito (AMARTYA SEN)
+</p>
+
+<li> Pagsulong </li>
+<p> Pagpapaunlad ng kakayahan, kaalaman, at abilidad upang makasabay sa agos ng buhay 
+</p>
+
+<li> Ebolusyon </li>
+<p> Pagbabago sa mga katangian sa loob ng mahabang panahon 
+</p>
+<p> Anuman ang unang dumating ay mas mabuti sa sinundang panahon 
+</p>
+</ol> 
+
+<h3 class="Kaunlaran"> DALAWANG KONSEPTO NG PAG-UNLAD (TODARO & SMITH, 2012) </h3>
+<ul class="Lesson">
+<li> TRADISYUNAL </li>
+<p> Pagtamo ng patuloy na pagtaas ng income per capita. </p>
+
+<li> MAKABAGO </li>
+<p> Dapat na kumakatawan sa malawakang pagbabago sa buong sistemang panlipunan. </p>
+
+</ul>
+
+<h3 class="Kaunlaran"> MGA SALIK NA MAAARING MAKATULONG SA PAGSULONG NG EKONOMIYA  </h3>
+<ul class="Lesson">
+<li> Likas na Yaman </li>
+<li> Yamang-Tao </li>
+<li> Kapital </li>
+<li> Teknolohiya At Inobasyon </li>
+
+</ul>
+
+
+<h3 class="Kaunlaran"> MGA PALATANDAAN NG PAG-UNLAD </h3>
+<ul class="Lesson">
+<li> Makatwiran at dinamikong kaayusan ng panlipunan    </li>
+<li> Kasaganaan at kasarinlan </li>
+<li> Kalayaan sa kahirapan, hanapbuhay para sa lahat, umaangat na istandard ng pamumuhay, at mainam na uri ng buhay para sa lahat  </li>
+<li> Sapat na mga lingkurang panlipunan </li>
+<li> Katarungang panlipunan </li>
+
+</ul>
+
+
+<h3 class="Kaunlaran"> SUKATAN NG KAUNLARAN NG BANSA AYON SA UNITED NATIONS </h3>
+<p> Maliban sa paggamit ng GDP at GNP, ginagamit ang Human Development Index (HDI) bilang isa sa mga panukat sa antas ng pag-unlad ng isang bansa. </p>
+
+<h3 class="Kaunlaran"> Human Development Index (HDI) </h3>
+<p> Pangkalahatang sukat ng kakayahan ng isang bansa na matugunan ang mahahalagang aspekto ng kaunlarang pantao. </p>
+<p> Kabilang dito ang kalusugan, edukasyon, at antas ng pamumuhay. </p>
+
+<h3 class="Kaunlaran"> ANTAS NG KAUNLARAN NG BANSA </h3>
+<ul class="Lesson">
+<li> Maunlad na Bansa o Developed Economies    </li>
+<p> Mga bansang may mataas na GDP, income per capita, at mataas na HDI
+</p>
+<li> Umuunlad na Bansa o Developing Economies </li> 
+<p> Mga bansang may mga industriyang kasalukuyang pinauunlad ngunit wala pang mataas na antas ng industriyalisasyon
+</p>
+
+<li> Papaunlad na Bansa o Underdeveloped Economies </li>
+<p> Mga bansang kung ihahambing sa iba ay kulang sa industriyalisasyon
+</p>
+<p> Mababang antas ng agrikultura at mababang GDP, income per capita, at HDI 
+</p>
+</ul>
+
+<h3 class="Kaunlaran"> MGA TUNGKULIN PARA SA PAG-UNLAD NG BANSA </h3>
+<ul class="Lesson">
+<li> Suportahan ang ating pamahalaan. </li>
+<li> Sundin at igalang ang batas </li>
+<li> Alagaan ang ating kapaligiran.  </li>
+<li> Tumulong sa pagpuksa sa korapsyon at katiwalian sa pamahalaan. </li>
+<li> Maging produktibo. </li>
+<li> Tangkilikin ang mga produktong Pilipino.   </li>
+<li> Magtipid ng enerhiya. </li>
+<li> Makilahok sa mga gawaing pansibiko. </li>
+
+</ul>
+
+<h3 class="Kaunlaran"> <h3 class="Kaunlaran"> MGA GAMPANIN NG MAMAMAYAN SA PAG-UNLAD NG BANSA </h3>
+<ol class="Kaunlaran">
+
+<li> Mapanagutan </li>
+<p> Tamang pagbabayad ng buwis 
+</p>
+<p> Makialam 
+</p>
+
+<li> Maabilidad </li>
+<p> Bumuo o sumali sa kooperatiba
+</p>
+<p> Pagnenegosyo
+</p>
+
+<li> Maalam </li>
+<p>Tamang pagboto 
+</p>
+<p> Pagpapatupad at pakikilahok sa mga proyektong pangkaunlaran sa komunidad
+</p>
+
+<li> Makabansa </li>
+<p> Pakikilahok sa pamamahala ng bansa (participative governance)
+</p>
+<p> Pagtangkilik sa mga produktong Pilipino
+</p>
+</ol> 
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><Title> ICT 4 </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body style="background-color:Lavender;color:Teal;">
+
+
+<nav class="navigation">
+<ul>
+ <li><a href="ICT4.html"> Lesson 1 </a></li>
+ <li><a href="ICT42.html"> Lesson 2 </a></li>
+ <li><a href="ICT43.html"> Lesson 3 </a></li>
+ <li><a href="index.html"> Home </a></li>
+</ul>
+</nav>
+
+<h1 class="Kaunlaran"> SAMPLE CODE </h1>
+<img src="ICT6.JPG" alt="SAMPLE">
+
+<h1 class="Kaunlaran"> RESULT </h1>
+<img src="ICT7.JPG" alt="RESULT">
+
+
+<h3 class="Kaunlaran"> Reflection </h3>
+<p> In this lesson, I learned the basics of using JavaScript, how it should be used and its rules, and where its scripts can be applied on a text editor. </p>
+
+
+</body>
+</html>

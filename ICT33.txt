@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><Title> ICT 3 </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body style="background-color:Lavender;color:Teal;">
+
+
+<nav class="navigation">
+<ul>
+ <li><a href="ICT3.html"> Lesson 1 </a></li>
+ <li><a href="ICT32.html"> Lesson 2 </a></li>
+ <li><a href="ICT33.html"> Lesson 3 </a></li>
+ <li><a href="index.html"> Home </a></li>
+</ul>
+</nav>
+
+<h1 class="Kaunlaran"> SAMPLE CODE </h1>
+<img src="ICT4.JPG" alt="SAMPLE">
+
+<h1 class="Kaunlaran"> RESULT </h1>
+<img src="ICT5.JPG" alt="RESULT">
+
+
+<h3 class="Kaunlaran"> Reflection </h3>
+<p> In this lesson, I learned how to design and fix layouts using CSS as well as how to add a background image and the properties on how it is placed as a background on the web page </p>
+
+
+</body>
+</html>

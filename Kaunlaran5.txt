@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head><Title> Lesson 5 AP </title>
+<link rel="stylesheet" href="design.css" type="text/css">
+</head>
+<body style="background-color:Lavender;color:Teal;">
+
+
+<nav class="navigation">
+<ul>
+ <li><a href="Kaunlaran.html"> Lesson 1 </a></li>
+ <li><a href="Kaunlaran2.html"> Lesson 2 </a></li>
+ <li><a href="Kaunlaran3.html"> Lesson 3 </a></li>
+ <li><a href="Kaunlaran4.html"> Lesson 4 </a></li>
+ <li><a href="Kaunlaran5.html"> Lesson 5 </a></li>
+ <li><a href="Kaunlaran6.html"> Lesson 6 </a></li>
+ <li><a href="index.html"> Home </a></li>
+</ul>
+</nav>
+
+<h1 class="Kaunlaran"> IMPORMAL NA SEKTOR </h1>
+<p> Sektor ng ekonomiya na walang pormal o salat sa mga dokumentong kailangan sa pagsasagawa ng gawaing pang-ekonomiya </p>
+<p> Ang kita ng sektor na ito ay HINDI naisasama sa kabuuang Gross Domestic Product (GDP) ng bansa </p>
+<p> Paraan ng mamamayan upang magkaroon ng kabuhayan/dagdag kita sa tuwing panahon ng pangangailangan </p>
+<p> Ito ay nagdudulot rin ng pagkakalikha ng mga produkto at serbisyong tutugon sa ating mga pangangailangan </p>
+<p> Kilala rin sa tawag na Underground Economy  </p>
+
+
+<h3 class="Kaunlaran"> IBA’T IBANG ANYO NG IMPORMAL NA SEKTOR </h3>
+<ol class="Kaunlaran">
+
+<li> Mga gawaing maaaring isakatuparan lamang sa loob ng tahanan </li>
+<li> Mga gawaing pansibiko, pagkakawanggawa, at panrelihiyon </li>
+<li> Mga sari-sari stores, pagtitinda sa labas ng bahay o sidewalk, paglalako ng kalakal o serbisyo </li>
+<li> Ilegal na gawain tulad ng pagnanakaw, pagbebenta ng ilegal na gamot, piracy, at prostitusyon </li>
+
+</ol> 
+
+<h3 class="Kaunlaran"> KATANGIAN NG IMPORMAL NA SEKTOR </h3>
+<p> Hindi nakarehistro sa pamahalaan </p>
+<p> Hindi nagbabayad ng buwis mula sa kinita </p>
+<p> Walang legal at pormal na balangkas mula sa pamahalaan para sa pagnenegosyo </p>
+
+<h3 class="Kaunlaran"> KAHALAGAHAN NG IMPORMAL NA SEKTOR  </h3>
+<ul class="Lesson">
+<li> Sinasalo nito ang mga mamamayan na hindi makapasok bilang mga regular na empleyado sa isang kompanya. </li>
+
+<li> Nagbibigay ng pagkakataon sa maraming Pilipino na makapaghanapbuhay </li>
+
+<li> Nagsisilbing tagasalo ng mga mamamayang may mahigpit na pangangailangan  </li>
+
+<li> Malaki ang naitutulong sa mga konsyumer ang mga kalakal at serbisyong mula sa impormal na sektor dahil sa MURA nitong halaga </li>
+
+</ul>
+
+
+<h3 class="Kaunlaran"> DAHILAN KUNG BAKIT PUMAPASOK SA IMPORMAL NA SEKTOR ANG MGA MAMAMAYAN  </h3>
+<ul class="Lesson">
+<li> Makaligtas sa pagbabayad ng buwis sa pamahalaan </li>
+
+<li> Makaiwas sa masyadong mahaba at masalimuot na proseso ng pakikipagtransaksyon sa pamahalaan (bureaucratic red tape) </li>
+
+<li> Kawalan ng regulasyon mula sa pamahalaan na kung saan ang mga batas at programa ay hindi naitutupad nang maayos  </li>
+
+<li> Makapaghanapbuhay nang hindi nangangailangan  ng malaking kapital o puhunan </li>
+
+<li> Malabanan ang matinding kahirapan </li>
+</ul>
+
+<h1 class="Kaunlaran"> MGA BATAS, PROGRAMA, AT PATAKARANG PANG-EKONOMIYA SA IMPORMAL NA SEKTOR </h1>
+<img src="KaunlaranL5.JPG" alt="MGA BATAS, PROGRAMA, AT PATAKARANG PANG-EKONOMIYA SA IMPORMAL NA SEKTOR">
+
+
+<h1 class="Kaunlaran"> MGA PROGRAMA PARA SA MAMAMAYAN </h1>
+<img src="KaunlaranL51.JPG" alt="MGA PROGRAMA PARA SA MAMAMAYAN">
+
+
+</body>
+</html>
